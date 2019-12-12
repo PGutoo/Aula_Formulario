@@ -1,0 +1,60 @@
+body {
+  font-family: sans-serif;
+  background-image: linear-gradient(#912cee, white, white);
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+.formulário {
+  width: 400px;
+  height: 780px;
+  margin: 0 auto;
+  background-color: #9966cc;
+}
+.cpf {
+  margin: 0px 0px 10px 3px;
+}
+.rg {
+  margin: 0px 0px 10px 3px;
+}
+.cadastro {
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.nome {
+  margin: 0px 0px 10px 3px;
+}
+.sobrenome {
+  margin: 0px 0px 10px 3px;
+}
+.telefone {
+  margin: 0px 0px 10px 3px;
+}
+.email {
+  margin: 0px 0px 10px 3px;
+}
+.endereço {
+  margin: 0px 0px 10px 0px;
+}
+.nasc {
+  margin: 0px 0px 10px 1px;
+}
+.cep {
+  margin: 0px 0px 10px 0px;
+}
+.senha {
+  margin: 0px 0px 10px 3px;
+}
+.rsenha {
+  margin: 0px 0px 10px 3px;
+}
+.login {
+  margin: 0px 0px 10px 3px;
+}
+input {
+  border: 1px black outset;
+  box-shadow: 1px 1px 1px black;
+}
